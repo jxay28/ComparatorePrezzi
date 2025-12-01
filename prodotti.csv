@@ -1,11 +1,37 @@
 Prodotto;Prezzo Min;Prezzo Max
-Acqua (Bottiglia);0,20€;1,50€
-Latte;0,90€;2,20€
-Benzina;1,586€;2,158€
-Birra Artigianale;1,8€;10€
-Olio d'oliva;8,00€;15,50€
-Vino pregiato;15€;85€
-Profumo (Chanel);120€;180€
-Inchiostro Stampante;500€;800€
-Collirio;750€;1000€
-Veleno Scorpione;8000€;12000€
+Acqua del Rubinetto (Italia);0,0015€;0,003€
+Acqua in Bottiglia (Discount);0,15€;0,30€
+GPL Auto;0,70€;0,85€
+Latte Fresco;1,20€;2,50€
+Coca Cola / Bibite;1,00€;3,50€
+Benzina Verde;1,75€;2,10€
+Diesel;1,65€;1,95€
+AdBlue;0,80€;2,50€
+Birra Commerciale;1,50€;4,00€
+Vino da Tavola (Tetrapak);1,50€;3,00€
+Detersivo Piatti;2,00€;5,00€
+Spremuta d'Arancia (Bar);10,00€;20,00€
+Olio Motore 5W-30;8,00€;25,00€
+Birra Artigianale (IPA/Stout);8,00€;18,00€
+WD-40 (Sbloccante);15,00€;28,00€
+Olio Extravergine Oliva (DOP);12,00€;35,00€
+Vodka / Gin Commerciale;15,00€;30,00€
+Liquido Freni (DOT4);15,00€;40,00€
+Sciroppo per la tosse;30,00€;80,00€
+Amaro / Digestivo;20,00€;50,00€
+Salsa Tabasco;60,00€;90,00€
+Whisky Invecchiato (12-18y);50,00€;200,00€
+Cocktail Negroni (al bar);100,00€;150,00€
+Aceto Balsamico Tradizionale;500,00€;1.200€
+Collirio (Lacrime artificiali);800,00€;1.500€
+Mercurio Liquido;800,00€;2.000€
+Profumo (Dior/Chanel);1.200€;2.500€
+Smalto per Unghie;1.500€;3.500€
+Spray Gola (Propoli/Farmaco);1.800€;4.000€
+Inchiostro Stampante Nero;2.500€;5.000€
+Insulina;3.000€;8.000€
+Olio Essenziale di Rosa;10.000€;15.000€
+Sangue di Limulo (Test medici);12.000€;16.000€
+LSD (Forma liquida pura);25.000€;50.000€
+Veleno di Cobra Reale;30.000€;45.000€
+Veleno di Scorpione;8.000.000€;10.000.000€
