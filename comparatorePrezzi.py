@@ -6,7 +6,7 @@ import math
 class PriceComparatorApp:
     def __init__(self, root, data):
         self.root = root
-        self.root.title("Comparatore Prezzi Dinamico")
+        self.root.title("Comparatore Prezzi Dinamico!")
         self.root.geometry("1200x700")
         
         # Configurazione colori e stile
